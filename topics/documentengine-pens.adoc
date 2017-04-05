@@ -25,7 +25,7 @@ Pens are used to define the characteristics of lines. You will find lines in sev
 * Line Join
 * Miter Limit 
 
-You can also use the  pick:[win-forms=" link:infragistics4.documents.reports.v{ProductVersion}~infragistics.documents.reports.graphics.pens.html[Pens]"]   pick:[asp-net=" link:infragistics4.webui.documents.reports.v{ProductVersion}~infragistics.documents.reports.graphics.pens.html[Pens]"]   pick:[win-forms-old=" link:infragistics4.documents.reports.v{ProductVersion}~infragistics.documents.reports.graphics.pens.html[Pens]"]   pick:[aspnet-old=" link:infragistics4.webui.documents.reports.v{ProductVersion}~infragistics.documents.reports.graphics.pens.html[Pens]"]  class, a collection of predefined pens, to quickly add a colored pen with default style attributes to a line. Each pen in the Pens class is a solid pen with a width of 1px.
+You can also use the  pick:[win-forms=" link:{ApiPlatform}documents.reports{ApiVersion}~infragistics.documents.reports.graphics.pens.html[Pens]"]   pick:[asp-net=" link:{ApiPlatform}webui.documents.reports{ApiVersion}~infragistics.documents.reports.graphics.pens.html[Pens]"]   pick:[win-forms-old=" link:{ApiPlatform}documents.reports{ApiVersion}~infragistics.documents.reports.graphics.pens.html[Pens]"]   pick:[aspnet-old=" link:{ApiPlatform}webui.documents.reports{ApiVersion}~infragistics.documents.reports.graphics.pens.html[Pens]"]  class, a collection of predefined pens, to quickly add a colored pen with default style attributes to a line. Each pen in the Pens class is a solid pen with a width of 1px.
 
 image::images/DocumentEngine_Pens_01.png[Shows how you can use Pens to draw borders around a text element, and is the result of the code listed below.]
 
