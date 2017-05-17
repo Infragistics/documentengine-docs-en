@@ -28,7 +28,7 @@ This is useful if you want to keep a paragraph of text on one page, or maybe you
 
 '''
 
-Use the following code to add a  pick:[win-forms=" link:infragistics4.documents.reports.v{ProductVersion}~infragistics.documents.reports.report.ichain.html[Chain]"]   pick:[asp-net=" link:infragistics4.webui.documents.reports.v{ProductVersion}~infragistics.documents.reports.report.ichain.html[Chain]"]   pick:[win-forms-old=" link:infragistics4.documents.reports.v{ProductVersion}~infragistics.documents.reports.report.ichain.html[Chain]"]   pick:[aspnet-old=" link:infragistics4.webui.documents.reports.v{ProductVersion}~infragistics.documents.reports.report.ichain.html[Chain]"]  element to a Section element and add text to it.
+Use the following code to add a  pick:[win-forms=" link:{ApiPlatform}documents.reports{ApiVersion}~infragistics.documents.reports.report.ichain.html[Chain]"]   pick:[asp-net=" link:{ApiPlatform}webui.documents.reports{ApiVersion}~infragistics.documents.reports.report.ichain.html[Chain]"]   pick:[win-forms-old=" link:{ApiPlatform}documents.reports{ApiVersion}~infragistics.documents.reports.report.ichain.html[Chain]"]   pick:[aspnet-old=" link:{ApiPlatform}webui.documents.reports{ApiVersion}~infragistics.documents.reports.report.ichain.html[Chain]"]  element to a Section element and add text to it.
 
 [start=1]
 . *Define a report and add a Section element.*
