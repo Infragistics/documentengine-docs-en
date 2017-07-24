@@ -30,7 +30,7 @@ In order to deploy your application, you will have to re-distribute the followin
 |====
 |File Name|Description
 
-|{APIPlatform}Documents.v{ProductVersion}.dll
+|{APIPlatform}Documents.{ApiVersion}.dll
 |$$.NET$$ Assembly containing the Infragistics Document Engine™ code library.
 
 |====
